@@ -64,8 +64,8 @@ def depth_first_traversal(root):
 
     return paths_array
 
-def depth_first_traversal(root):
-    #non recursive
+def beadth_first_traversal(root):
+    #non recursive and using a queue
 
     paths_array = []
     queue = []  #setup
